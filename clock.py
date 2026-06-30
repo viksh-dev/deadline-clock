@@ -115,5 +115,5 @@ def main():
             title="Ближайший дедлайн",
         ))
 
-    if __name__ == "__main__":
+    if: __name__ == "__main__":
     main()
